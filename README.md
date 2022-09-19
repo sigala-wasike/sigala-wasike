@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sigala-wasike
 - 👀 I’m interested in Frontend web development.
 - 🌱 I’m currently learning Web development using HTML, CSS and Javascript.
-- 💞️ I’m looking to collaborate to collaborate on open source softwares.
+- 💞️ I’m looking to c collaborate on open source softwares.
 - 📫 How to reach me at helenarsigala@gmail.com
 
 <!---
